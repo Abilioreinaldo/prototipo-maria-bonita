@@ -1,0 +1,6 @@
+:HL["/prototipo-maria-bonita/_next/static/chunks/208suowrh-p18.css","style"]
+:HL["/prototipo-maria-bonita/maria-bonita/logo-mark-green.svg","image"]
+:HL["/prototipo-maria-bonita/maria-bonita/logo-mark.svg","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
+0:{"b":"naOeMfMmcJROavv7O0MQg","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
